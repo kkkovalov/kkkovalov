@@ -1,1 +1,4 @@
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6467797a410780a6d9b913ea?variant=dark)](https://roadmap.sh)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkovalov)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kkkovalov)](https://git.io/streak-stats)
