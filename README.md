@@ -1,7 +1,6 @@
 # Vladyslav Kovalov
 
-***
-___
+Welcome to my page, I am a self-taught backend software developer. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkovalov&layout=compact&exclude_repo=django_library,CarLib)
 
