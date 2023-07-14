@@ -1,4 +1,7 @@
-### Vladyslav Kovalov
+# Vladyslav Kovalov
+
+***
+___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkovalov&layout=compact&exclude_repo=django_library,CarLib)
 
