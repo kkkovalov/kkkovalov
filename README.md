@@ -5,7 +5,7 @@ Welcome to my page, I am a self-taught backend software developer. I have been p
 ## My languages:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkovalov&layout=compact&exclude_repo=django_library,CarLib)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkovalov&layout=compact&exclude_repo=django_library,CarLib)](https://github.com/kkkovalov)
 
 
 
