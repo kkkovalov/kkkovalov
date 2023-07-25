@@ -10,4 +10,4 @@ Welcome to my page, I am a self-taught backend software developer. I have been p
 
 
 ## Keep up or give up
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kkkovalov)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kkkovalov)](https://github.com/kkkovalov)
